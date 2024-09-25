@@ -20,3 +20,14 @@
 * :cold_sweat:
 * :star:
 * :smiley_cat:
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-F (search)
+- Ctrl-V (paste)
+- Ctrl-C (copy)
+
+Shortcuts I would like to start using: 
+- Ctrl-H (Find and replace text)
+- Win-M (Minimize all windows)
+- Alt-Tab (Switch between open apps)

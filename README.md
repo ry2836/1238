@@ -31,3 +31,5 @@ Shortcuts I would like to start using:
 - Ctrl-H (Find and replace text)
 - Win-M (Minimize all windows)
 - Alt-Tab (Switch between open apps)
+
+[CLI commands](docs/cli.md)

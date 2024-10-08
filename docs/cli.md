@@ -6,4 +6,3 @@ Common Command Lines:
 
 3)cat- Short for concatenate, allows the content of a text file to be revealed.
 
-[CLI commands](docs/cli.md)
